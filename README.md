@@ -40,7 +40,7 @@ Example 1:
 
 ```
 Input:
-A = "i love express it is awsome",
+A = "i love express it is awesome",
 B = "i love express it is cool"
 Output: ["awesome","cool"]
 ```
